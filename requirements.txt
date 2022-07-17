@@ -1,0 +1,5 @@
+﻿pandas==1.4.2
+pandas-datareader==0.10.0
+streamlit==1.9.2
+yfinance==0.1.70
+Pillow==9.1.1
